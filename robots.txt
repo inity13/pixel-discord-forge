@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pixel-empire.github.io/pixel-discord-forge/sitemap.xml
